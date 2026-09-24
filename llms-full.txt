@@ -1,0 +1,22 @@
+# Spiral Maturity
+
+> Spiral Maturity — open-source методика: зрелость организации × агентная зрелость. 7 уровней ценностей, лестница ИИ-агентов A0–A4, 16 индикаторов, диагностика за 10 минут перед внедрением. MIT.
+
+## Documentation
+- [README (Русский)](./README.md): Полное описание методики, лестница A0–A4, оркестратор, как пользоваться
+- [Methodology](./docs/methodology-ru.md): Полная методика: 7 уровней × A0–A4, мост, проблемы 2026, источники
+- [Diagnostics](./docs/diagnostics-ru.md): 16 индикаторов (10 орг + 6 агентных), шкалы, интерпретация
+- [English README](./docs/en/README.md): Summary in English
+- [Field Card](./templates/field-card.md): Карточка для встречи: уровень + ступень A → формат → шаг
+- [SKILL.md](./SKILL.md): Hermes/Claude Code skill frontmatter + triggers
+- [Battle test](./examples/case-msb-avito-2026-09-14.md): Real run on MSB client — level 1, A0, one step
+- [CHANGELOG](./CHANGELOG.md): Version history
+- [Claude Code Integration](./integrations/claude-code/README.md)
+- [Hermes Integration](./integrations/hermes/README.md)
+- [ChatGPT Integration](./integrations/chatgpt/README.md)
+
+## Links
+- [GitHub Repository](https://github.com/r0undm1dn1ghty-star/spiral-maturity)
+- [Discovery System](https://discovery-system.ru)
+- [Telegram](https://t.me/discoverysystem)
+- [Author: Viktor Zaitsev](https://github.com/r0undm1dn1ghty-star)

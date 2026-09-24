@@ -1,0 +1,8 @@
+# локальное, не для публикации
+.env
+.env.*
+*.pem
+*.key
+*.p12
+secrets/
+personal/
