@@ -72,6 +72,8 @@ The level and rung are a hypothesis, not a diagnosis: honesty is part of the met
 Скилл прогнан на реальных данных рынка — не на синтетике. Полный разбор с
 цифрами, покрытием и воспроизводимыми командами: **[EVAL.md](EVAL.md)**.
 
+Бенчмарк против наивного метода на реальных данных: **[BENCHMARK.md](BENCHMARK.md)**.
+
 ## Что внутри
 
 | Файл | Что это |
